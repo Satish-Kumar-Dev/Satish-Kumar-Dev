@@ -33,6 +33,6 @@
 
 ---
 
-📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
+📬 Connect with me on [LinkedIn]((https://www.linkedin.com/in/satish-kumar-poola-761215359))  
 ⭐️ Follow my journey & projects here on GitHub!
 
