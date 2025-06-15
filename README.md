@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Satish Kumar
 
-<!--
-**Satish-Kumar-Dev/Satish-Kumar-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Software Engineer | Java | Mulesoft | Learning DSA & AI (Soon)**
 
-Here are some ideas to get you started:
+🎯 Currently working full-time while pursuing MCA  
+📘 Solving 2 DSA problems daily to strengthen core problem-solving skills  
+💻 Building Java backend projects (Spring Boot + MySQL)  
+🧱 Improving code quality, system design, and API development  
+🚀 Transitioning into AI development in the coming months
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, SQL, Python (Learning)
+- **Tools & Platforms:** Mulesoft, Git, Postman, MySQL, IntelliJ IDEA, GitHub
+- **Frameworks:** Spring Boot, REST APIs, Maven
+
+---
+
+## 📈 GitHub Stats
+
+![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satish-Kumar-Dev&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-Kumar-Dev&layout=compact&theme=github_dark)
+
+---
+
+## 🧠 Learning & Building
+
+- 📌 **DSA Tracker Repo** → [dsa-practice-java](https://github.com/Satish-Kumar-Dev/dsa-practice-java)
+- 💼 **Java CRUD API** → [student-crud-api](https://github.com/Satish-Kumar-Dev/student-crud-api)
+- 🔬 **AI Projects** → Coming Soon...
+
+---
+
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
+⭐️ Follow my journey & projects here on GitHub!
+
